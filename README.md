@@ -24,11 +24,11 @@ Identify key environmental risk factors linked to chronic diseases
 
 Longitudinal Ageing Study in India (LASI), Wave 1
 
-Feature	Details
-Sample Size	42,000+ households
-Population	Individuals aged 45+
-Data Type	Household environment & health indicators
-Coverage	National-level dataset (India)
+Feature	           Details
+Sample Size	       42,000+ households
+Population	       Individuals aged 45+
+Data Type	         Household environment & health indicators
+Coverage	         National-level dataset (India)
 ⚙️ Methodology
 Data Preparation
 
@@ -53,6 +53,6 @@ Logistic regression modeling
 Hypothesis testing
 
 🛠 Tools & Technologies
-Tool	Purpose
-STATA	Data management, PCA, regression models
-Excel	Descriptive analysis & visualization
+Tool	       Purpose
+STATA	       Data management, PCA, regression models
+Excel	       Descriptive analysis & visualization
